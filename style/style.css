@@ -4,3 +4,7 @@
 body{
   background-color: rgba(244, 255, 122, 1);
 }
+
+li{
+  list-style: decimal;
+}
